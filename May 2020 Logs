@@ -1,2 +1,6 @@
 #Log the date and time you sprayed the weeds and whether you sprayed the front & back
-05.09.2020/ 17:30PM/ sprayed front & back 
+
+| Date          | Sprayed Front & Back?  |
+| ------------- | ------------- |
+| 05.09.2020    | Yes |
+| 05.10.2020    | Yes |
